@@ -1,0 +1,5 @@
+/home/soulthym/code/c/kinect-tests/release/CMakeFiles/rebuild_cache.dir
+/home/soulthym/code/c/kinect-tests/release/CMakeFiles/edit_cache.dir
+/home/soulthym/code/c/kinect-tests/release/src/CMakeFiles/rebuild_cache.dir
+/home/soulthym/code/c/kinect-tests/release/src/CMakeFiles/main.dir
+/home/soulthym/code/c/kinect-tests/release/src/CMakeFiles/edit_cache.dir
